@@ -5,7 +5,6 @@ while (true); do
     echo "NO"
   else
     echo "Fechas disponibles"
-    sh telegram_asanchez_bot.sh "Fechas ITV disponibles ${res}"
   fi
   sleep 30
 done
